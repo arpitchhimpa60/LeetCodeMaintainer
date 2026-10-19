@@ -1,0 +1,15 @@
+[
+  {
+    "folderId": "leetcode/0091-decode-ways",
+    "frontendId": "91",
+    "title": "Decode Ways",
+    "slug": "decode-ways",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-19T10:14:56.086Z"
+  }
+]
