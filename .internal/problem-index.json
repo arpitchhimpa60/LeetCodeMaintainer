@@ -11,5 +11,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-19T10:14:56.086Z"
+  },
+  {
+    "folderId": "leetcode/0102-binary-tree-level-order-traversal",
+    "frontendId": "102",
+    "title": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-19T18:06:52.031Z"
   }
 ]
