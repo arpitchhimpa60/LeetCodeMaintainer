@@ -25,5 +25,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-19T18:06:52.031Z"
+  },
+  {
+    "folderId": "leetcode/0103-binary-tree-zigzag-level-order-traversal",
+    "frontendId": "103",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-20T10:18:55.720Z"
   }
 ]

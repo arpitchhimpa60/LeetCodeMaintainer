@@ -1,6 +1,7 @@
 {
   "python3": [
     "leetcode/0091-decode-ways",
-    "leetcode/0102-binary-tree-level-order-traversal"
+    "leetcode/0102-binary-tree-level-order-traversal",
+    "leetcode/0103-binary-tree-zigzag-level-order-traversal"
   ]
 }
