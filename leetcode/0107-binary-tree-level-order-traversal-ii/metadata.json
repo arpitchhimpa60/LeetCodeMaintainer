@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "107",
+  "frontendId": "107",
+  "title": "Binary Tree Level Order Traversal II",
+  "slug": "binary-tree-level-order-traversal-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.6 MB",
+  "submissionId": "2179777902",
+  "acceptedAt": "2026-10-23T15:34:01.777Z",
+  "updatedAt": "2026-10-23T15:34:02.657Z",
+  "url": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+  "version": 1
+}
