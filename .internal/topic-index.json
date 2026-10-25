@@ -9,7 +9,8 @@
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
     "leetcode/0103-binary-tree-zigzag-level-order-traversal",
-    "leetcode/0107-binary-tree-level-order-traversal-ii"
+    "leetcode/0107-binary-tree-level-order-traversal-ii",
+    "leetcode/0501-find-mode-in-binary-search-tree"
   ],
   "Breadth-First Search": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -20,7 +21,8 @@
   "Binary Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
     "leetcode/0103-binary-tree-zigzag-level-order-traversal",
-    "leetcode/0107-binary-tree-level-order-traversal-ii"
+    "leetcode/0107-binary-tree-level-order-traversal-ii",
+    "leetcode/0501-find-mode-in-binary-search-tree"
   ],
   "Array": [
     "leetcode/0948-bag-of-tokens",
@@ -40,5 +42,11 @@
   ],
   "Complete Knapsack": [
     "leetcode/0322-coin-change"
+  ],
+  "Depth-First Search": [
+    "leetcode/0501-find-mode-in-binary-search-tree"
+  ],
+  "Binary Search Tree": [
+    "leetcode/0501-find-mode-in-binary-search-tree"
   ]
 }

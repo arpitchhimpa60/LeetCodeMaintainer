@@ -5,6 +5,7 @@
     "leetcode/0103-binary-tree-zigzag-level-order-traversal",
     "leetcode/0948-bag-of-tokens",
     "leetcode/0107-binary-tree-level-order-traversal-ii",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/0501-find-mode-in-binary-search-tree"
   ]
 }

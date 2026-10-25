@@ -84,5 +84,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-24T15:46:08.497Z"
+  },
+  {
+    "folderId": "leetcode/0501-find-mode-in-binary-search-tree",
+    "frontendId": "501",
+    "title": "Find Mode in Binary Search Tree",
+    "slug": "find-mode-in-binary-search-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-25T17:05:04.765Z"
   }
 ]

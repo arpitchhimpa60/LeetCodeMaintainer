@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "501",
+  "frontendId": "501",
+  "title": "Find Mode in Binary Search Tree",
+  "slug": "find-mode-in-binary-search-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "4 ms",
+  "memory": "22.6 MB",
+  "submissionId": "2181581587",
+  "acceptedAt": "2026-10-25T17:05:04.765Z",
+  "updatedAt": "2026-10-25T17:05:05.676Z",
+  "url": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+  "version": 1
+}

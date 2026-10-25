@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**6** problems solved — 0 Easy · 6 Medium · 0 Hard
+**7** problems solved — 1 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -19,13 +19,16 @@
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
+| 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 
 ## By Difficulty
 
-### Easy (0)
+### Easy (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 
 ### Medium (6)
 
@@ -55,13 +58,23 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Binary Tree (3)</summary>
+<summary>Binary Search Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Binary Tree (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
+| 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
 
 </details>
 
@@ -83,6 +96,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Depth-First Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
 
 </details>
 
@@ -133,13 +155,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Tree (3)</summary>
+<summary>Tree (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
+| 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
 
 </details>
 
@@ -155,7 +178,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (6)</summary>
+<summary>python3 (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -164,6 +187,7 @@ _No problems solved yet._
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 
 </details>
@@ -172,6 +196,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy | 2026-10-25 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-24 |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | 2026-10-23 |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-22 |
