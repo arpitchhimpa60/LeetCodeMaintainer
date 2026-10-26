@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**7** problems solved — 1 Easy · 6 Medium · 0 Hard
+**8** problems solved — 1 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
 
 ## By Difficulty
 
@@ -30,7 +31,7 @@
 | --- | --- | --- |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 
-### Medium (6)
+### Medium (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -40,6 +41,7 @@
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 
 ### Hard (0)
 
@@ -48,12 +50,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (2)</summary>
+<summary>Array (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
 
@@ -100,6 +103,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Counting Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Depth-First Search (1)</summary>
 
 | # | Title | Difficulty |
@@ -119,11 +131,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (1)</summary>
+<summary>Greedy (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
 
@@ -137,11 +150,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (1)</summary>
+<summary>Sorting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
 
@@ -178,7 +192,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (7)</summary>
+<summary>python3 (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -189,6 +203,7 @@ _No problems solved yet._
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
 
@@ -196,6 +211,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy | 2026-10-25 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-24 |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | 2026-10-23 |

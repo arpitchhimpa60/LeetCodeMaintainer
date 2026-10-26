@@ -26,16 +26,19 @@
   ],
   "Array": [
     "leetcode/0948-bag-of-tokens",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/1833-maximum-ice-cream-bars"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens"
   ],
   "Greedy": [
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/1833-maximum-ice-cream-bars"
   ],
   "Sorting": [
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/1833-maximum-ice-cream-bars"
   ],
   "Knapsack Problem": [
     "leetcode/0322-coin-change"
@@ -48,5 +51,8 @@
   ],
   "Binary Search Tree": [
     "leetcode/0501-find-mode-in-binary-search-tree"
+  ],
+  "Counting Sort": [
+    "leetcode/1833-maximum-ice-cream-bars"
   ]
 }

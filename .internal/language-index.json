@@ -6,6 +6,7 @@
     "leetcode/0948-bag-of-tokens",
     "leetcode/0107-binary-tree-level-order-traversal-ii",
     "leetcode/0322-coin-change",
-    "leetcode/0501-find-mode-in-binary-search-tree"
+    "leetcode/0501-find-mode-in-binary-search-tree",
+    "leetcode/1833-maximum-ice-cream-bars"
   ]
 }

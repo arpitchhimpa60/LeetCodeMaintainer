@@ -1,19 +1,20 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "byDifficulty": {
     "Easy": 1,
-    "Medium": 6,
+    "Medium": 7,
     "Hard": 0
   },
-  "currentStreak": 4,
-  "longestStreak": 4,
-  "lastSolvedDate": "2026-10-25",
+  "currentStreak": 5,
+  "longestStreak": 5,
+  "lastSolvedDate": "2026-10-26",
   "activityByDate": {
     "2026-10-19": 2,
     "2026-10-20": 1,
     "2026-10-22": 1,
     "2026-10-23": 1,
     "2026-10-24": 1,
-    "2026-10-25": 1
+    "2026-10-25": 1,
+    "2026-10-26": 1
   }
 }

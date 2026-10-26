@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "1961",
+  "frontendId": "1833",
+  "title": "Maximum Ice Cream Bars",
+  "slug": "maximum-ice-cream-bars",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "106 ms",
+  "memory": "32 MB",
+  "submissionId": "2182218700",
+  "acceptedAt": "2026-10-26T12:52:25.116Z",
+  "updatedAt": "2026-10-26T12:52:25.996Z",
+  "url": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+  "version": 1
+}

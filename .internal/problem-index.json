@@ -99,5 +99,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-25T17:05:04.765Z"
+  },
+  {
+    "folderId": "leetcode/1833-maximum-ice-cream-bars",
+    "frontendId": "1833",
+    "title": "Maximum Ice Cream Bars",
+    "slug": "maximum-ice-cream-bars",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-26T12:52:25.116Z"
   }
 ]
