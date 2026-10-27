@@ -114,5 +114,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-26T12:52:25.116Z"
+  },
+  {
+    "folderId": "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
+    "frontendId": "452",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "slug": "minimum-number-of-arrows-to-burst-balloons",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-27T09:42:28.915Z"
   }
 ]

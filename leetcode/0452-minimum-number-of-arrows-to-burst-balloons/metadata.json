@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "452",
+  "frontendId": "452",
+  "title": "Minimum Number of Arrows to Burst Balloons",
+  "slug": "minimum-number-of-arrows-to-burst-balloons",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "88 ms",
+  "memory": "53.6 MB",
+  "submissionId": "2182965246",
+  "acceptedAt": "2026-10-27T09:42:28.915Z",
+  "updatedAt": "2026-10-27T09:42:30.021Z",
+  "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+  "version": 1
+}

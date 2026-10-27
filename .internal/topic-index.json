@@ -27,18 +27,21 @@
   "Array": [
     "leetcode/0948-bag-of-tokens",
     "leetcode/0322-coin-change",
-    "leetcode/1833-maximum-ice-cream-bars"
+    "leetcode/1833-maximum-ice-cream-bars",
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens"
   ],
   "Greedy": [
     "leetcode/0948-bag-of-tokens",
-    "leetcode/1833-maximum-ice-cream-bars"
+    "leetcode/1833-maximum-ice-cream-bars",
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
   ],
   "Sorting": [
     "leetcode/0948-bag-of-tokens",
-    "leetcode/1833-maximum-ice-cream-bars"
+    "leetcode/1833-maximum-ice-cream-bars",
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
   ],
   "Knapsack Problem": [
     "leetcode/0322-coin-change"
