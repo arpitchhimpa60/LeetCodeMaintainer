@@ -30,7 +30,8 @@
     "leetcode/0322-coin-change",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/1877-minimize-maximum-pair-sum-in-array"
+    "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "leetcode/1338-reduce-array-size-to-the-half"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
@@ -40,14 +41,16 @@
     "leetcode/0948-bag-of-tokens",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/1877-minimize-maximum-pair-sum-in-array"
+    "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "leetcode/1338-reduce-array-size-to-the-half"
   ],
   "Sorting": [
     "leetcode/0948-bag-of-tokens",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/1338-reduce-array-size-to-the-half"
   ],
   "Knapsack Problem": [
     "leetcode/0322-coin-change"
@@ -65,10 +68,12 @@
     "leetcode/1833-maximum-ice-cream-bars"
   ],
   "Hash Table": [
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/1338-reduce-array-size-to-the-half"
   ],
   "Heap (Priority Queue)": [
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/1338-reduce-array-size-to-the-half"
   ],
   "Bucket Sort": [
     "leetcode/0451-sort-characters-by-frequency"

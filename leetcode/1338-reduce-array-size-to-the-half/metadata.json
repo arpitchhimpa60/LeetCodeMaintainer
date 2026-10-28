@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "1464",
+  "frontendId": "1338",
+  "title": "Reduce Array Size to The Half",
+  "slug": "reduce-array-size-to-the-half",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "223 ms",
+  "memory": "44.5 MB",
+  "submissionId": "2183792734",
+  "acceptedAt": "2026-10-28T09:41:13.942Z",
+  "updatedAt": "2026-10-28T09:41:14.857Z",
+  "url": "https://leetcode.com/problems/reduce-array-size-to-the-half/",
+  "version": 1
+}
