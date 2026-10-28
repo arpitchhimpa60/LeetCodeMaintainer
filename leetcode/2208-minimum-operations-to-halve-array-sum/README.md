@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 327 ms |
-| Memory | 32.6 MB |
-| Submission Date | 2026-10-28T10:15:32.953Z |
+| Runtime | 280 ms |
+| Memory | 32.4 MB |
+| Submission Date | 2026-10-28T10:18:05.869Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -76,24 +76,19 @@ It can be shown that we cannot reduce the sum by at least half in less than 3 op
 ```py
 class Solution:
     def halveArray(self, nums: list[int]) -> int:
-        total = sum(nums)/2
         import heapq
         heap = [-x for x in nums]
         heapq.heapify(heap)
-        # print(heap)
+        original_sum = sum(nums)
+        curr_sum = original_sum
         cnt = 0
-        diff = -sum(heap)
-        while diff > total:
-            val = -heapq.heappop(heap)
-            while diff > total:
-                red = val/2
-                diff -= red
-                val = val/2
-                cnt+=1
-                if heap and val <= -heap[0]:
-                    break
-            heapq.heappush(heap,-val)
+        while curr_sum > original_sum /2:
+            cnt+=1
+            maxi = -heapq.heappop(heap)
+            curr_sum -= maxi/2
+            heapq.heappush(heap,-maxi/2)
         return cnt
+        
 
         
 ```

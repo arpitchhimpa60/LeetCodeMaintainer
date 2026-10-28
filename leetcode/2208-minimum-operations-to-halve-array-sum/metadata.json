@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "327 ms",
-  "memory": "32.6 MB",
-  "submissionId": "2183814361",
-  "acceptedAt": "2026-10-28T10:15:32.953Z",
-  "updatedAt": "2026-10-28T10:15:33.669Z",
+  "runtime": "280 ms",
+  "memory": "32.4 MB",
+  "submissionId": "2183816088",
+  "acceptedAt": "2026-10-28T10:18:05.869Z",
+  "updatedAt": "2026-10-28T10:18:06.443Z",
   "url": "https://leetcode.com/problems/minimum-operations-to-halve-array-sum/",
-  "version": 1
+  "version": 2
 }
