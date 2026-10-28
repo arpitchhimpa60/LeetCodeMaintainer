@@ -31,7 +31,8 @@
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/1338-reduce-array-size-to-the-half"
+    "leetcode/1338-reduce-array-size-to-the-half",
+    "leetcode/2208-minimum-operations-to-halve-array-sum"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
@@ -42,7 +43,8 @@
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/1338-reduce-array-size-to-the-half"
+    "leetcode/1338-reduce-array-size-to-the-half",
+    "leetcode/2208-minimum-operations-to-halve-array-sum"
   ],
   "Sorting": [
     "leetcode/0948-bag-of-tokens",
@@ -73,7 +75,8 @@
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/1338-reduce-array-size-to-the-half"
+    "leetcode/1338-reduce-array-size-to-the-half",
+    "leetcode/2208-minimum-operations-to-halve-array-sum"
   ],
   "Bucket Sort": [
     "leetcode/0451-sort-characters-by-frequency"

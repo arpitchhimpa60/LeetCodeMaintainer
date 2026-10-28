@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "2310",
+  "frontendId": "2208",
+  "title": "Minimum Operations to Halve Array Sum",
+  "slug": "minimum-operations-to-halve-array-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "327 ms",
+  "memory": "32.6 MB",
+  "submissionId": "2183814361",
+  "acceptedAt": "2026-10-28T10:15:32.953Z",
+  "updatedAt": "2026-10-28T10:15:33.669Z",
+  "url": "https://leetcode.com/problems/minimum-operations-to-halve-array-sum/",
+  "version": 1
+}

@@ -176,5 +176,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-28T09:41:13.942Z"
+  },
+  {
+    "folderId": "leetcode/2208-minimum-operations-to-halve-array-sum",
+    "frontendId": "2208",
+    "title": "Minimum Operations to Halve Array Sum",
+    "slug": "minimum-operations-to-halve-array-sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-28T10:15:32.953Z"
   }
 ]
