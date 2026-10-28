@@ -9,6 +9,7 @@
     "leetcode/0501-find-mode-in-binary-search-tree",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/1877-minimize-maximum-pair-sum-in-array"
+    "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "leetcode/0451-sort-characters-by-frequency"
   ]
 }

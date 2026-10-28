@@ -1,6 +1,7 @@
 {
   "String": [
-    "leetcode/0091-decode-ways"
+    "leetcode/0091-decode-ways",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Dynamic Programming": [
     "leetcode/0091-decode-ways",
@@ -45,7 +46,8 @@
     "leetcode/0948-bag-of-tokens",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/1877-minimize-maximum-pair-sum-in-array"
+    "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Knapsack Problem": [
     "leetcode/0322-coin-change"
@@ -61,5 +63,17 @@
   ],
   "Counting Sort": [
     "leetcode/1833-maximum-ice-cream-bars"
+  ],
+  "Hash Table": [
+    "leetcode/0451-sort-characters-by-frequency"
+  ],
+  "Heap (Priority Queue)": [
+    "leetcode/0451-sort-characters-by-frequency"
+  ],
+  "Bucket Sort": [
+    "leetcode/0451-sort-characters-by-frequency"
+  ],
+  "Counting": [
+    "leetcode/0451-sort-characters-by-frequency"
   ]
 }
