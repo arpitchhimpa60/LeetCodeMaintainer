@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "871",
+  "frontendId": "841",
+  "title": "Keys and Rooms",
+  "slug": "keys-and-rooms",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.5 MB",
+  "submissionId": "2184969305",
+  "acceptedAt": "2026-10-29T18:06:06.993Z",
+  "updatedAt": "2026-10-29T18:06:08.316Z",
+  "url": "https://leetcode.com/problems/keys-and-rooms/",
+  "version": 1
+}

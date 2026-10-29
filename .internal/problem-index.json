@@ -248,5 +248,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T17:41:26.747Z"
+  },
+  {
+    "folderId": "leetcode/0841-keys-and-rooms",
+    "frontendId": "841",
+    "title": "Keys and Rooms",
+    "slug": "keys-and-rooms",
+    "difficulty": "Medium",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T18:06:06.993Z"
   }
 ]
