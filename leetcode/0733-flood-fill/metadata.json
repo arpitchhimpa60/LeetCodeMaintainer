@@ -14,10 +14,10 @@
   "companyTags": [],
   "language": "python3",
   "runtime": "1 ms",
-  "memory": "19.1 MB",
-  "submissionId": "2184943854",
-  "acceptedAt": "2026-10-29T17:40:05.590Z",
-  "updatedAt": "2026-10-29T17:40:06.845Z",
+  "memory": "19.4 MB",
+  "submissionId": "2184945122",
+  "acceptedAt": "2026-10-29T17:41:26.747Z",
+  "updatedAt": "2026-10-29T17:41:27.656Z",
   "url": "https://leetcode.com/problems/flood-fill/",
-  "version": 1
+  "version": 2
 }
