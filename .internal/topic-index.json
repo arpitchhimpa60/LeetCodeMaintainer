@@ -17,7 +17,8 @@
     "leetcode/0102-binary-tree-level-order-traversal",
     "leetcode/0103-binary-tree-zigzag-level-order-traversal",
     "leetcode/0107-binary-tree-level-order-traversal-ii",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/1971-find-if-path-exists-in-graph"
   ],
   "Binary Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -65,7 +66,8 @@
     "leetcode/0322-coin-change"
   ],
   "Depth-First Search": [
-    "leetcode/0501-find-mode-in-binary-search-tree"
+    "leetcode/0501-find-mode-in-binary-search-tree",
+    "leetcode/1971-find-if-path-exists-in-graph"
   ],
   "Binary Search Tree": [
     "leetcode/0501-find-mode-in-binary-search-tree"
@@ -93,5 +95,11 @@
   ],
   "Matrix": [
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix"
+  ],
+  "Union-Find": [
+    "leetcode/1971-find-if-path-exists-in-graph"
+  ],
+  "Graph Theory": [
+    "leetcode/1971-find-if-path-exists-in-graph"
   ]
 }

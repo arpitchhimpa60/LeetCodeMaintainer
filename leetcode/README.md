@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**15** problems solved — 2 Easy · 13 Medium · 0 Hard
+**16** problems solved — 3 Easy · 13 Medium · 0 Hard
 
 ## Contents
 
@@ -27,17 +27,19 @@
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | Array, Binary Search, Matrix |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | Array, Greedy, Heap (Priority Queue) |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | Array, Greedy, Sorting |
 
 ## By Difficulty
 
-### Easy (2)
+### Easy (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
 ### Medium (13)
 
@@ -111,7 +113,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Breadth-First Search (4)</summary>
+<summary>Breadth-First Search (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -119,6 +121,7 @@ _No problems solved yet._
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
 
@@ -159,11 +162,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Depth-First Search (1)</summary>
+<summary>Depth-First Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
 
@@ -174,6 +178,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Graph Theory (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
 
@@ -278,10 +291,19 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>Union-Find (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
+
+</details>
+
 ## By Language
 
 <details>
-<summary>python3 (15)</summary>
+<summary>python3 (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -298,6 +320,7 @@ _No problems solved yet._
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium |
 
@@ -307,6 +330,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy | 2026-10-29 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | 2026-10-29 |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |
@@ -321,4 +345,3 @@ _No problems solved yet._
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-22 |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium | 2026-10-20 |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-10-19 |
-| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-19 |

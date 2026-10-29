@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "2121",
+  "frontendId": "1971",
+  "title": "Find if Path Exists in Graph",
+  "slug": "find-if-path-exists-in-graph",
+  "difficulty": "Easy",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "724 ms",
+  "memory": "133.7 MB",
+  "submissionId": "2184926630",
+  "acceptedAt": "2026-10-29T17:22:11.160Z",
+  "updatedAt": "2026-10-29T17:22:12.415Z",
+  "url": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+  "version": 1
+}
