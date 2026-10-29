@@ -233,5 +233,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T17:22:11.160Z"
+  },
+  {
+    "folderId": "leetcode/0733-flood-fill",
+    "frontendId": "733",
+    "title": "Flood Fill",
+    "slug": "flood-fill",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T17:40:05.590Z"
   }
 ]

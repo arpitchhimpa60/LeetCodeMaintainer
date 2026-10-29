@@ -15,6 +15,7 @@
     "leetcode/2208-minimum-operations-to-halve-array-sum",
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
-    "leetcode/1971-find-if-path-exists-in-graph"
+    "leetcode/1971-find-if-path-exists-in-graph",
+    "leetcode/0733-flood-fill"
   ]
 }

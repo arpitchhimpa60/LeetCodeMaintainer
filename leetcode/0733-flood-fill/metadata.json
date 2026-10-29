@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "733",
+  "frontendId": "733",
+  "title": "Flood Fill",
+  "slug": "flood-fill",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1 ms",
+  "memory": "19.1 MB",
+  "submissionId": "2184943854",
+  "acceptedAt": "2026-10-29T17:40:05.590Z",
+  "updatedAt": "2026-10-29T17:40:06.845Z",
+  "url": "https://leetcode.com/problems/flood-fill/",
+  "version": 1
+}
