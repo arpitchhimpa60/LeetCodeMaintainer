@@ -32,7 +32,8 @@
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/1338-reduce-array-size-to-the-half",
-    "leetcode/2208-minimum-operations-to-halve-array-sum"
+    "leetcode/2208-minimum-operations-to-halve-array-sum",
+    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
@@ -44,7 +45,8 @@
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/1338-reduce-array-size-to-the-half",
-    "leetcode/2208-minimum-operations-to-halve-array-sum"
+    "leetcode/2208-minimum-operations-to-halve-array-sum",
+    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks"
   ],
   "Sorting": [
     "leetcode/0948-bag-of-tokens",
@@ -52,7 +54,8 @@
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/1338-reduce-array-size-to-the-half"
+    "leetcode/1338-reduce-array-size-to-the-half",
+    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks"
   ],
   "Knapsack Problem": [
     "leetcode/0322-coin-change"

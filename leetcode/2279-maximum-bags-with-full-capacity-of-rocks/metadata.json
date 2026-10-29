@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "2366",
+  "frontendId": "2279",
+  "title": "Maximum Bags With Full Capacity of Rocks",
+  "slug": "maximum-bags-with-full-capacity-of-rocks",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "126 ms",
+  "memory": "29.2 MB",
+  "submissionId": "2184498574",
+  "acceptedAt": "2026-10-29T06:38:44.297Z",
+  "updatedAt": "2026-10-29T06:38:45.194Z",
+  "url": "https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/",
+  "version": 1
+}
