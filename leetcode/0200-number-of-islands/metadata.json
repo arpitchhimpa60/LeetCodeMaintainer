@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "200",
+  "frontendId": "200",
+  "title": "Number of Islands",
+  "slug": "number-of-islands",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "255 ms",
+  "memory": "22.1 MB",
+  "submissionId": "2185185872",
+  "acceptedAt": "2026-10-30T03:45:45.513Z",
+  "updatedAt": "2026-10-30T03:45:46.509Z",
+  "url": "https://leetcode.com/problems/number-of-islands/",
+  "version": 1
+}

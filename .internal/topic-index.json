@@ -20,7 +20,8 @@
     "leetcode/0322-coin-change",
     "leetcode/1971-find-if-path-exists-in-graph",
     "leetcode/0733-flood-fill",
-    "leetcode/0841-keys-and-rooms"
+    "leetcode/0841-keys-and-rooms",
+    "leetcode/0200-number-of-islands"
   ],
   "Binary Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -38,7 +39,8 @@
     "leetcode/2208-minimum-operations-to-halve-array-sum",
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
-    "leetcode/0733-flood-fill"
+    "leetcode/0733-flood-fill",
+    "leetcode/0200-number-of-islands"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
@@ -72,7 +74,8 @@
     "leetcode/0501-find-mode-in-binary-search-tree",
     "leetcode/1971-find-if-path-exists-in-graph",
     "leetcode/0733-flood-fill",
-    "leetcode/0841-keys-and-rooms"
+    "leetcode/0841-keys-and-rooms",
+    "leetcode/0200-number-of-islands"
   ],
   "Binary Search Tree": [
     "leetcode/0501-find-mode-in-binary-search-tree"
@@ -100,10 +103,12 @@
   ],
   "Matrix": [
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
-    "leetcode/0733-flood-fill"
+    "leetcode/0733-flood-fill",
+    "leetcode/0200-number-of-islands"
   ],
   "Union-Find": [
-    "leetcode/1971-find-if-path-exists-in-graph"
+    "leetcode/1971-find-if-path-exists-in-graph",
+    "leetcode/0200-number-of-islands"
   ],
   "Graph Theory": [
     "leetcode/1971-find-if-path-exists-in-graph",
