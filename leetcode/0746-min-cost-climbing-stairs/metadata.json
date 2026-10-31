@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "747",
+  "frontendId": "746",
+  "title": "Min Cost Climbing Stairs",
+  "slug": "min-cost-climbing-stairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "10 ms",
+  "memory": "20.7 MB",
+  "submissionId": "2186300741",
+  "acceptedAt": "2026-10-31T15:45:40.879Z",
+  "updatedAt": "2026-10-31T15:45:41.701Z",
+  "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+  "version": 1
+}

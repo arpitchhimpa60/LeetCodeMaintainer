@@ -5,7 +5,8 @@
   ],
   "Dynamic Programming": [
     "leetcode/0091-decode-ways",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/0746-min-cost-climbing-stairs"
   ],
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -40,7 +41,8 @@
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
     "leetcode/0733-flood-fill",
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0746-min-cost-climbing-stairs"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
