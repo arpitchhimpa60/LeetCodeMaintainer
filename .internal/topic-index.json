@@ -1,7 +1,8 @@
 {
   "String": [
     "leetcode/0091-decode-ways",
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/0709-to-lower-case"
   ],
   "Dynamic Programming": [
     "leetcode/0091-decode-ways",

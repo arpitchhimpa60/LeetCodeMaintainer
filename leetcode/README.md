@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**20** problems solved — 5 Easy · 15 Medium · 0 Hard
+**21** problems solved — 6 Easy · 15 Medium · 0 Hard
 
 ## Contents
 
@@ -23,6 +23,7 @@
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | String |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
 | 0841 | [Keys and Rooms](0841-keys-and-rooms/README.md) | Medium | Depth-First Search, Breadth-First Search, Graph Theory |
@@ -37,11 +38,12 @@
 
 ## By Difficulty
 
-### Easy (5)
+### Easy (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0709 | [To Lower Case](0709-to-lower-case/README.md) | String |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
@@ -281,12 +283,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (2)</summary>
+<summary>String (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
 
 </details>
 
@@ -325,7 +328,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (20)</summary>
+<summary>python3 (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -338,6 +341,7 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
+| 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0841 | [Keys and Rooms](0841-keys-and-rooms/README.md) | Medium |
@@ -356,6 +360,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | 2026-11-01 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-31 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-30 |
 | 0841 | [Keys and Rooms](0841-keys-and-rooms/README.md) | Medium | 2026-10-29 |
@@ -370,4 +375,3 @@ _No problems solved yet._
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy | 2026-10-25 |
-| 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-24 |

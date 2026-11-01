@@ -291,5 +291,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-31T15:45:40.879Z"
+  },
+  {
+    "folderId": "leetcode/0709-to-lower-case",
+    "frontendId": "709",
+    "title": "To Lower Case",
+    "slug": "to-lower-case",
+    "difficulty": "Easy",
+    "topics": [
+      "String"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-01T15:00:11.525Z"
   }
 ]
