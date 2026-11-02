@@ -1,0 +1,22 @@
+# Runtime: 2 ms
+# Memory: 19.5 MB
+
+class Solution:
+    def uniquePaths(self, m: int, n: int) -> int:
+        dp = [[-1] * n for _ in range(m)]
+
+        def f(i, j):
+            if (i, j) == (m - 1, n - 1):
+                return 1
+            if i >= m or j >= n:
+                return 0
+
+            if dp[i][j] != -1:
+                return dp[i][j]
+
+            ways = f(i + 1, j) + f(i, j + 1)
+            dp[i][j] = ways
+            return ways
+
+        return f(0, 0)
+        

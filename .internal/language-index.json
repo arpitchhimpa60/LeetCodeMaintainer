@@ -20,6 +20,7 @@
     "leetcode/0841-keys-and-rooms",
     "leetcode/0200-number-of-islands",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0709-to-lower-case"
+    "leetcode/0709-to-lower-case",
+    "leetcode/0062-unique-paths"
   ]
 }

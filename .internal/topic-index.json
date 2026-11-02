@@ -7,7 +7,8 @@
   "Dynamic Programming": [
     "leetcode/0091-decode-ways",
     "leetcode/0322-coin-change",
-    "leetcode/0746-min-cost-climbing-stairs"
+    "leetcode/0746-min-cost-climbing-stairs",
+    "leetcode/0062-unique-paths"
   ],
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -116,5 +117,11 @@
   "Graph Theory": [
     "leetcode/1971-find-if-path-exists-in-graph",
     "leetcode/0841-keys-and-rooms"
+  ],
+  "Math": [
+    "leetcode/0062-unique-paths"
+  ],
+  "Combinatorics": [
+    "leetcode/0062-unique-paths"
   ]
 }

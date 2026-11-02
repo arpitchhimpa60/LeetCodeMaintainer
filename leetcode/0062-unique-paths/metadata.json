@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "62",
+  "frontendId": "62",
+  "title": "Unique Paths",
+  "slug": "unique-paths",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "2 ms",
+  "memory": "19.5 MB",
+  "submissionId": "2187644620",
+  "acceptedAt": "2026-11-02T09:46:58.364Z",
+  "updatedAt": "2026-11-02T09:46:59.212Z",
+  "url": "https://leetcode.com/problems/unique-paths/",
+  "version": 1
+}
