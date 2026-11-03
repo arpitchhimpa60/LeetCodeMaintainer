@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**22** problems solved — 6 Easy · 16 Medium · 0 Hard
+**23** problems solved — 6 Easy · 17 Medium · 0 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
@@ -50,11 +51,12 @@
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (16)
+### Medium (17)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Math, Dynamic Programming, Combinatorics |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Array, Dynamic Programming, Matrix |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
@@ -78,10 +80,11 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (12)</summary>
+<summary>Array (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -202,11 +205,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (4)</summary>
+<summary>Dynamic Programming (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
@@ -278,10 +282,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Matrix (3)</summary>
+<summary>Matrix (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
@@ -349,11 +354,12 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (22)</summary>
+<summary>python3 (23)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium |
@@ -382,6 +388,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | 2026-11-01 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-31 |
@@ -396,4 +403,3 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
-| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |

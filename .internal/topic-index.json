@@ -8,7 +8,8 @@
     "leetcode/0091-decode-ways",
     "leetcode/0322-coin-change",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -44,7 +45,8 @@
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
-    "leetcode/0746-min-cost-climbing-stairs"
+    "leetcode/0746-min-cost-climbing-stairs",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
@@ -108,7 +110,8 @@
   "Matrix": [
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
     "leetcode/0733-flood-fill",
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Union-Find": [
     "leetcode/1971-find-if-path-exists-in-graph",
