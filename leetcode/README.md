@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**23** problems solved — 6 Easy · 17 Medium · 0 Hard
+**24** problems solved — 7 Easy · 17 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
@@ -40,10 +41,11 @@
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | String |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Array, Depth-First Search, Breadth-First Search, Matrix |
@@ -243,10 +245,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (2)</summary>
+<summary>Hash Table (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
@@ -294,10 +297,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (7)</summary>
+<summary>Sorting (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
@@ -309,11 +313,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (3)</summary>
+<summary>String (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
 
@@ -354,7 +359,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (23)</summary>
+<summary>python3 (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -365,6 +370,7 @@ _No problems solved yet._
 | 0103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal/README.md) | Medium |
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -388,6 +394,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-04 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | 2026-11-01 |
@@ -402,4 +409,3 @@ _No problems solved yet._
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
-| 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |

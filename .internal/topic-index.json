@@ -2,7 +2,8 @@
   "String": [
     "leetcode/0091-decode-ways",
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/0709-to-lower-case"
+    "leetcode/0709-to-lower-case",
+    "leetcode/0242-valid-anagram"
   ],
   "Dynamic Programming": [
     "leetcode/0091-decode-ways",
@@ -68,7 +69,8 @@
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1338-reduce-array-size-to-the-half",
-    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks"
+    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
+    "leetcode/0242-valid-anagram"
   ],
   "Knapsack Problem": [
     "leetcode/0322-coin-change"
@@ -91,7 +93,8 @@
   ],
   "Hash Table": [
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/1338-reduce-array-size-to-the-half"
+    "leetcode/1338-reduce-array-size-to-the-half",
+    "leetcode/0242-valid-anagram"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",

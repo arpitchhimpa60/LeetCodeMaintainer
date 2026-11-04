@@ -331,5 +331,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-03T09:14:43.511Z"
+  },
+  {
+    "folderId": "leetcode/0242-valid-anagram",
+    "frontendId": "242",
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-04T04:09:51.887Z"
   }
 ]
