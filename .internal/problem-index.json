@@ -345,5 +345,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-04T04:09:51.887Z"
+  },
+  {
+    "folderId": "leetcode/0238-product-of-array-except-self",
+    "frontendId": "238",
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-07T11:59:33.960Z"
   }
 ]

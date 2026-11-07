@@ -47,7 +47,8 @@
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0238-product-of-array-except-self"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
@@ -129,5 +130,8 @@
   ],
   "Combinatorics": [
     "leetcode/0062-unique-paths"
+  ],
+  "Prefix Sum": [
+    "leetcode/0238-product-of-array-except-self"
   ]
 }

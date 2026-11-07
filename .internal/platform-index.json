@@ -23,6 +23,7 @@
     "leetcode/0709-to-lower-case",
     "leetcode/0062-unique-paths",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0242-valid-anagram"
+    "leetcode/0242-valid-anagram",
+    "leetcode/0238-product-of-array-except-self"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "238",
+  "frontendId": "238",
+  "title": "Product of Array Except Self",
+  "slug": "product-of-array-except-self",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "18 ms",
+  "memory": "24.8 MB",
+  "submissionId": "2191246343",
+  "acceptedAt": "2026-11-07T11:59:33.960Z",
+  "updatedAt": "2026-11-07T11:59:35.625Z",
+  "url": "https://leetcode.com/problems/product-of-array-except-self/",
+  "version": 1
+}
