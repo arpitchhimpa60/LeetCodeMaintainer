@@ -358,5 +358,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-07T11:59:33.960Z"
+  },
+  {
+    "folderId": "leetcode/0300-longest-increasing-subsequence",
+    "frontendId": "300",
+    "title": "Longest Increasing Subsequence",
+    "slug": "longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Longest Increasing Subsequence"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-16T09:56:17.899Z"
   }
 ]

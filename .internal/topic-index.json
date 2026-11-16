@@ -10,7 +10,8 @@
     "leetcode/0322-coin-change",
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0062-unique-paths",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0300-longest-increasing-subsequence"
   ],
   "Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -48,7 +49,8 @@
     "leetcode/0200-number-of-islands",
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0238-product-of-array-except-self"
+    "leetcode/0238-product-of-array-except-self",
+    "leetcode/0300-longest-increasing-subsequence"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
@@ -109,7 +111,8 @@
     "leetcode/0451-sort-characters-by-frequency"
   ],
   "Binary Search": [
-    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix"
+    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
+    "leetcode/0300-longest-increasing-subsequence"
   ],
   "Matrix": [
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
@@ -133,5 +136,8 @@
   ],
   "Prefix Sum": [
     "leetcode/0238-product-of-array-except-self"
+  ],
+  "Longest Increasing Subsequence": [
+    "leetcode/0300-longest-increasing-subsequence"
   ]
 }

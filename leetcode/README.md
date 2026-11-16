@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**25** problems solved — 7 Easy · 18 Medium · 0 Hard
+**26** problems solved — 7 Easy · 19 Medium · 0 Hard
 
 ## Contents
 
@@ -23,6 +23,7 @@
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
@@ -54,7 +55,7 @@
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (18)
+### Medium (19)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -66,6 +67,7 @@
 | 0107 | [Binary Tree Level Order Traversal II](0107-binary-tree-level-order-traversal-ii/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
@@ -84,13 +86,14 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (14)</summary>
+<summary>Array (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
@@ -106,10 +109,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Binary Search (1)</summary>
+<summary>Binary Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
 
 </details>
@@ -210,13 +214,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (5)</summary>
+<summary>Dynamic Programming (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 
@@ -275,6 +280,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Longest Increasing Subsequence (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 
 </details>
 
@@ -371,7 +385,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (25)</summary>
+<summary>python3 (26)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -384,6 +398,7 @@ _No problems solved yet._
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -407,6 +422,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-11-07 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-04 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
@@ -421,4 +437,3 @@ _No problems solved yet._
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
-| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
