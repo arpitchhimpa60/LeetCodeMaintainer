@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**26** problems solved — 7 Easy · 19 Medium · 0 Hard
+**27** problems solved — 7 Easy · 20 Medium · 0 Hard
 
 ## Contents
 
@@ -33,6 +33,7 @@
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
 | 0841 | [Keys and Rooms](0841-keys-and-rooms/README.md) | Medium | Depth-First Search, Breadth-First Search, Graph Theory |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | Array, Binary Search, Matrix |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
@@ -55,7 +56,7 @@
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 
-### Medium (19)
+### Medium (20)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -73,6 +74,7 @@
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0841 | [Keys and Rooms](0841-keys-and-rooms/README.md) | Depth-First Search, Breadth-First Search, Graph Theory |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -86,7 +88,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (15)</summary>
+<summary>Array (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -99,6 +101,7 @@ _No problems solved yet._
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -140,7 +143,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Breadth-First Search (8)</summary>
+<summary>Breadth-First Search (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -151,6 +154,7 @@ _No problems solved yet._
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 0841 | [Keys and Rooms](0841-keys-and-rooms/README.md) | Medium |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -201,7 +205,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Depth-First Search (5)</summary>
+<summary>Depth-First Search (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -209,6 +213,7 @@ _No problems solved yet._
 | 0501 | [Find Mode in Binary Search Tree](0501-find-mode-in-binary-search-tree/README.md) | Easy |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
 | 0841 | [Keys and Rooms](0841-keys-and-rooms/README.md) | Medium |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -302,13 +307,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Matrix (4)</summary>
+<summary>Matrix (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0733 | [Flood Fill](0733-flood-fill/README.md) | Easy |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
 
 </details>
@@ -373,11 +379,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Union-Find (2)</summary>
+<summary>Union-Find (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Medium |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph/README.md) | Easy |
 
 </details>
@@ -385,7 +392,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (26)</summary>
+<summary>python3 (27)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -408,6 +415,7 @@ _No problems solved yet._
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0841 | [Keys and Rooms](0841-keys-and-rooms/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -422,6 +430,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/README.md) | Medium | 2026-11-23 |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-11-07 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-04 |
@@ -436,4 +445,3 @@ _No problems solved yet._
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | 2026-10-29 |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |
-| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |

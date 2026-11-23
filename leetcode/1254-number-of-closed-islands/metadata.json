@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "1380",
+  "frontendId": "1254",
+  "title": "Number of Closed Islands",
+  "slug": "number-of-closed-islands",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "19 ms",
+  "memory": "20.5 MB",
+  "submissionId": "2201840910",
+  "acceptedAt": "2026-11-23T10:10:00.846Z",
+  "updatedAt": "2026-11-23T10:10:02.176Z",
+  "url": "https://leetcode.com/problems/number-of-closed-islands/",
+  "version": 1
+}

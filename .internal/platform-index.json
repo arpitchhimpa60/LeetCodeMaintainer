@@ -25,6 +25,7 @@
     "leetcode/0063-unique-paths-ii",
     "leetcode/0242-valid-anagram",
     "leetcode/0238-product-of-array-except-self",
-    "leetcode/0300-longest-increasing-subsequence"
+    "leetcode/0300-longest-increasing-subsequence",
+    "leetcode/1254-number-of-closed-islands"
   ]
 }

@@ -373,5 +373,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-16T09:56:17.899Z"
+  },
+  {
+    "folderId": "leetcode/1254-number-of-closed-islands",
+    "frontendId": "1254",
+    "title": "Number of Closed Islands",
+    "slug": "number-of-closed-islands",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-23T10:10:00.846Z"
   }
 ]
