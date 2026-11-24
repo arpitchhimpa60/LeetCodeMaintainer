@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "1036",
+  "frontendId": "994",
+  "title": "Rotting Oranges",
+  "slug": "rotting-oranges",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2202496548",
+  "acceptedAt": "2026-11-24T09:52:00.324Z",
+  "updatedAt": "2026-11-24T09:52:01.816Z",
+  "url": "https://leetcode.com/problems/rotting-oranges/",
+  "version": 1
+}

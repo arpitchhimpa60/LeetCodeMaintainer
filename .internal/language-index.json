@@ -26,6 +26,7 @@
     "leetcode/0242-valid-anagram",
     "leetcode/0238-product-of-array-except-self",
     "leetcode/0300-longest-increasing-subsequence",
-    "leetcode/1254-number-of-closed-islands"
+    "leetcode/1254-number-of-closed-islands",
+    "leetcode/0994-rotting-oranges"
   ]
 }

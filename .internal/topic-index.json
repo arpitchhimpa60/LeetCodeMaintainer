@@ -28,7 +28,8 @@
     "leetcode/0733-flood-fill",
     "leetcode/0841-keys-and-rooms",
     "leetcode/0200-number-of-islands",
-    "leetcode/1254-number-of-closed-islands"
+    "leetcode/1254-number-of-closed-islands",
+    "leetcode/0994-rotting-oranges"
   ],
   "Binary Tree": [
     "leetcode/0102-binary-tree-level-order-traversal",
@@ -52,7 +53,8 @@
     "leetcode/0063-unique-paths-ii",
     "leetcode/0238-product-of-array-except-self",
     "leetcode/0300-longest-increasing-subsequence",
-    "leetcode/1254-number-of-closed-islands"
+    "leetcode/1254-number-of-closed-islands",
+    "leetcode/0994-rotting-oranges"
   ],
   "Two Pointers": [
     "leetcode/0948-bag-of-tokens",
@@ -122,7 +124,8 @@
     "leetcode/0733-flood-fill",
     "leetcode/0200-number-of-islands",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/1254-number-of-closed-islands"
+    "leetcode/1254-number-of-closed-islands",
+    "leetcode/0994-rotting-oranges"
   ],
   "Union-Find": [
     "leetcode/1971-find-if-path-exists-in-graph",

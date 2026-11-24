@@ -389,5 +389,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-23T10:10:00.846Z"
+  },
+  {
+    "folderId": "leetcode/0994-rotting-oranges",
+    "frontendId": "994",
+    "title": "Rotting Oranges",
+    "slug": "rotting-oranges",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-24T09:52:00.324Z"
   }
 ]
